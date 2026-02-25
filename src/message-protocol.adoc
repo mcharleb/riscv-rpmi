@@ -100,8 +100,8 @@ or message data.
 
 ==== Message Header
 The layout of the `8-byte` wide RPMI message header is shown in the
-<<table_message_header>> below. The RPMI message header provide a
-unique identity to the corresponding RPMI message withing an RPMI
+<<table_message_header>> below. The RPMI message header provides a
+unique identity to the corresponding RPMI message within an RPMI
 context.
 
 [#table_message_header]
